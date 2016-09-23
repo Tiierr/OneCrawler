@@ -20,13 +20,13 @@
 
 看`网页源码`如下:
 摘要
-![](http://i1.piimg.com/567571/995bb85212bb9819.png)
+- ![](http://i1.piimg.com/567571/995bb85212bb9819.png)
 标题
-![](http://i1.piimg.com/567571/a79dfb4e861fb053.png)
+- ![](http://i1.piimg.com/567571/a79dfb4e861fb053.png)
 作者
-![](http://i1.piimg.com/567571/894804bad49bc4c2.png)
+- ![](http://i1.piimg.com/567571/894804bad49bc4c2.png)
 正文
-![](http://i1.piimg.com/567571/286700ab889b36a4.png)
+- ![](http://i1.piimg.com/567571/286700ab889b36a4.png)
 
 `ONE`的代码标签还是挺清晰明了的,可以直接利用`beautiful soup`的`find`函数直接提取对应的数据。
 
