@@ -1,6 +1,5 @@
 # -*- coding:utf-8 -*-
 from bs4 import BeautifulSoup
-import requests,re
 import leancloud
 from leancloud import Object
 import time
@@ -10,7 +9,7 @@ import time
 '''
 class One:
     def __init__(self):
-        leancloud.init("36awYtC2m4AN1dvLxwv7udxI-gzGzoHsz", "b29MzvGA0aqQQlERUGQJJdBr")
+        leancloud.init("xxxx","xxxx")
         self.user_agent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'
         self.headers = {'User-Agent': self.user_agent}
         self.num = 42
